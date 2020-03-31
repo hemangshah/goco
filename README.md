@@ -1,5 +1,5 @@
 # GoCorona
 
-🦠A game to fight with virus while staying at home and self quarantined
+🦠A game to fight with virus virtually.
 
 Coming soon on the Apple's AppStore.
