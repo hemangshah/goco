@@ -1,6 +1,6 @@
 # GoCorona app – Support 🧞‍
 
-#### First of thank you for using GoCorona. If you're looking for support we're here to help you.
+#### First of thank you for playing GoCorona. If you're looking for support we're here to help you.
 
 You got this option to contact us: ✌
 
