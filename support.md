@@ -13,4 +13,4 @@ You got this option to contact us: ✌
 - When you open an issue here on Github it will be public so anyone can read it. So if you have something which you think you want to share in private please send me an email.
 - If you want us to contact you back, you can always provide your email. We will only use your email to contact you in case it will requires.
 
-#### Once again thank you for playing GoCorona! Let's follow the guidelines from our Govt. and help stop this virus.
+#### Once again thank you for playing GoCorona! Let's follow the guidelines from our Govt. and help stop this virus not just virtually in this game but in real world too.
