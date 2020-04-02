@@ -1,4 +1,4 @@
-# GoCorona
+# GoCo
 
 🦠A game to fight with virus virtually.
 
